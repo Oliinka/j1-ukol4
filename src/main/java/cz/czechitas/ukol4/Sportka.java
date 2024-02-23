@@ -36,7 +36,6 @@ public class Sportka {
 
         return osudi.subList(0, pocetLosovanychCisel);
     }
-
     /**
      * Vrátí sedmé vylosované číslo (dodatkové číslo)
      *
